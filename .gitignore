@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files (trained models)
+*.pth
+best_chatbot.pth
+
+# Pickle files (serialized data)
+*.pkl
+words.pkl
+classes.pkl
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python environment
+*.egg-info/
+dist/
+build/
+
+# Streamlit cache
+.streamlit/
+*.streamlitignore
+
+# Temporary files
+*.tmp
+*.log
