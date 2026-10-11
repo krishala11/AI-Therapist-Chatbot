@@ -237,32 +237,5 @@ python -m streamlit run ui.py
 - [ ] Advanced user preference learning
 - [ ] Mood tracking dashboard
 
-## 📄 License
 
-This project is open-source and available under the MIT License.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
-
-## 📞 Support
-
-For issues, questions, or feedback:
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
-
-## ⚠️ Disclaimer
-
-**MindHaven is not a replacement for professional mental health care.** If you're experiencing a mental health crisis, please contact:
-- **National Suicide Prevention Lifeline**: 988 (US)
-- **Crisis Text Line**: Text HOME to 741741
-- **International Association for Suicide Prevention**: https://www.iasp.info/resources/Crisis_Centres/
-
----
-
-**Made with ❤️ for mental health awareness**
